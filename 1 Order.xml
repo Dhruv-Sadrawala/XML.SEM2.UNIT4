@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+	
+	<order_details>
+		<order>
+			<orderNumber>1</orderNumber>
+			<orderRate>20/09/2001</orderRate>
+			<orderAmount>6000</orderAmount>
+			<itemPrice>3000</itemPrice>
+			<itemName>gvh</itemName>
+			<quantity>5</quantity>
+		</order>
+		
+		<order>
+			<orderNumber>23</orderNumber>
+			<orderRate>21/10/2001</orderRate>
+			<orderAmount>6000</orderAmount>
+			<itemPrice>2000</itemPrice>
+			<itemName>abc</itemName>
+			<quantity>10</quantity>
+		</order>
+		
+		<order>
+			<orderNumber>1</orderNumber>
+			<orderRate>20000</orderRate>
+			<orderAmount>15000</orderAmount>
+			<itemPrice>3000</itemPrice>
+			<itemName>xyz
+			</itemName>
+			<quantity>5</quantity>
+		</order>
+	</order_details>
